@@ -9,7 +9,7 @@ Escolha o fabricante da sua máquina para ver os relatos e correções. 🛠️
 ## 🏭 Fabricantes Disponíveis
 
 - 🔵 [Dell](IEEE1394-dell.md) - ⏳
-- ⚫ [ASUS](IEEE1394-asus.md) - ⏳
+- ⚫ [ASUS](IEEE1394-asus.md) - ✅
 
 ---
 
