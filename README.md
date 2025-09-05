@@ -20,7 +20,7 @@ O **Wiki Windows** nasceu da necessidade de registrar cada erro estranho que apa
 
 Cada **erro** ou **problema** é documentado em sua própria pasta/categoria, com arquivos em Markdown:  
 
-- **IEEE1394/** → Disco sendo detectado como externo (USB/FireWire).  (instalação/IEEE1394/README.md)
+- [**IEEE1394/**](instalação/IEEE1394/README.md) → Disco sendo detectado como externo (USB/FireWire).  (instalação/IEEE1394/README.md)
 - **DRIVER-MISSING/** → Drivers que somem no meio da instalação.  
 - **GPT-MBR/** → Conversão de disco e partições rebeldes.  
 - **OUTROS/** → Aqueles erros bizarros que não se encaixam em nenhuma categoria.  
